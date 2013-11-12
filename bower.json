@@ -1,0 +1,24 @@
+{
+  "name": "Bootstrap Input Controls",
+  "version": "0.0.1",
+  "authors": [
+    "Thiago Miranda <theprogramer@theprogramer.com.br>"
+  ],
+  "description": "Disable CUT, PASTE from inputs",
+  "main": "input_controls.js",
+  "keywords": [
+    "Bootstrap",
+    "Jquery",
+    "Cut",
+    "Paste"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/theprogramer/BootstrapInputControls",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
